@@ -8,9 +8,8 @@
 
 - 💬 Ask me about **html,css,Javascript,Angular**
 <div align="center">
-    <div style="width:50%;height:0;padding-bottom:30%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-   
-</div>
+    <img src="https://png.pngitem.com/pimgs/s/127-1272138_best-web-app-development-company-in-uk-india.png">
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
