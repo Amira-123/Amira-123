@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi, I'm Amira Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Front End Developer | Angular</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 - 🔭 I’m currently working on [Admin && user tasks](https://amira-123.github.io/adminTask/auth)
 
 - 🌱 I’m currently learning **Advanced Topic in Angular& typescript**
